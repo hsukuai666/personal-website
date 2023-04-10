@@ -31,3 +31,9 @@ img{
     border-radius: 50%;
     width: 20%;
 }
+
+i{
+    width: 8%;
+    /*height: 50%;*/
+    font-size: 50px;
+}
