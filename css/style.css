@@ -1,0 +1,33 @@
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../images/background.jpg");
+    background-size: auto;
+    background-position: center;
+}
+
+.main-content{
+    text-align: center;
+}
+
+hi{
+    font-size: 500%;
+    color: #b5b5b5;
+}
+
+.top-section{
+    /*block-size: 50px;
+    width: 50%;
+    height: 50%;*/
+    background-color: #32ae80;
+    padding: 50px 0 100px 0;
+    box-shadow: 5px 20px 300px 10px white;
+    border-radius: 3%;
+}
+
+img{
+    border-radius: 50%;
+    width: 20%;
+}
